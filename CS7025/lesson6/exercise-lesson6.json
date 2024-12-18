@@ -1,0 +1,12 @@
+{
+    "name": "Haiqi Xiong",
+    "age": 24,
+    "isStudent": true,
+    "address": {
+      "street": "111 Main St",
+      "city": "Dublin"
+    },
+    "courses": ["HTML", "Audio", "Programming"],
+    "graduationYear": null
+  }
+  
